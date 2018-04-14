@@ -2,7 +2,7 @@
 layout: post
 title: "비즈니스와 IT 거버넌스 문제"
 date: 2018-04-14 21:00:40
-image: 'https://monosnap.com/file/wkG0efFd1hqA899rAeiOsnpS6IF8uk.png'
+image: 'https://monosnap.com/image/wkG0efFd1hqA899rAeiOsnpS6IF8uk'
 description: 기술혁신으로 인한 산업 혁명 4.0 시대에 심화되는 경쟁환경에서 성공적으로 사업을 지속 발전 시키기 위한 새로운 비즈니스모델 및 운영모델이 요구되는 시점입니다.
 category: 'SOLVENT'
 tags:
@@ -35,7 +35,7 @@ introduction: 기술혁신으로 인한 산업 혁명 4.0 시대에 심화되는
 
 흔히 IT 가 비즈니스와 연계가 부족하다고 합니다. 비즈니스 연계가 되지 않는 근본적인 이유는 비즈니스를 설명할 충분한 정보가 잘 정의되어 있지 않기 때문입니다.
 
-![alt text](https://monosnap.com/file/wkG0efFd1hqA899rAeiOsnpS6IF8uk.png)
+![Alt text](https://monosnap.com/image/wkG0efFd1hqA899rAeiOsnpS6IF8uk)
 [그림-2] 비즈니스 아키텍처의 역할 부족과 방향
 즉, 비즈니스 전략을 현실화할 비즈니스 아키텍처와 비즈니스 모델이 체계적으로 문서화 되어 있지 않아 전략이 현실화되어 있어야 할 실행가능한 업무 활동에 대한 정확한 이해가 부족하여 IT 시스템
 
