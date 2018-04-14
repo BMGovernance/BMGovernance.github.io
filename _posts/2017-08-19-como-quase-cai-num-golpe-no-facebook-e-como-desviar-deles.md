@@ -1,132 +1,79 @@
 ---
 layout: post
-title: "Como quase cai num golpe no Facebook e como desviar deles"
-date: 2017-09-10 12:26:40
-image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/c_fill,h_399,w_760/v1503153729/golpe_ghb84o.jpg'
+title: "비즈니스와 IT 거버넌스 문제"
+date: 2018-04-14 21:00:40
+image: 'https://monosnap.com/file/TRA5NXukobVDcJqJofxRP76ogcxX95.png'
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-category: 'life'
+category: 'SOLVENT'
 tags:
-- life
-- tips
-twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- 비즈니스모델
+- 운영모델
+- SOLVENT
+twitter_text: 기술혁신으로 인한 산업 혁명 4.0 시대에 심화되는 경쟁환경에서 성공적으로 사업을 지속 발전 시키기 위한 새로운 비즈니스모델 및 운영모델이 요구되는 시점입니다.
+introduction: 기술혁신으로 인한 산업 혁명 4.0 시대에 심화되는 경쟁환경에서 성공적으로 사업을 지속 발전 시키기 위한 새로운 비즈니스모델 및 운영모델이 요구되는 시점입니다.
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+[toc]
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+# 배경
+기술혁신으로 인한 산업 혁명 4.0 시대에 심화되는 경쟁환경에서 성공적으로 사업을 지속 발전 시키기 위한 새로운 `비즈니스모델` 및 `운영모델`이 요구되는 시점입니다.
+이러한 중요한 시점에서 비즈니스 민첩성을 확보하고 나아가 지속적으로 가치를 혁신하기 위한 비즈니스와 정보기술을 아우르는 전사 거버넌스가 날로 중요해지고 있습니다.
+비즈니스와 IT 가 더욱더 결합되어, 비즈니스가 정보기술로 실현되고, 정보기술이 바로 비즈니스가 되고 있기 때문에 이들의 관계를 명확히 하고, 비즈니스 모델을 지속적으로 혁신, 발전 시키는 거버넌스 체계가 절실히 필요합니다.
+또한, 비즈니스 전략이 최종 정보기술로 표현되고 운영되는 모든 과정이 투명하게 보여지고 , 가치가 실현되는 과정이 추적가능한 실 시간 거버넌스 체계를관리할수있는거버넌스플랫폼은이제 필수적 기업 경영 도구입니다.
+이런 맥락에서 실전적으로 사용되고 있는 비즈니스모델 거버넌스를 위한 지속적 가치 혁신 플랫폼인 SOLVENT 를 소개 하고자 합니다.
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+# 비즈니스와 IT 거버넌스 문제
+각 기업의 IT 시스템은 비즈니스를 원활히 수행하고 경쟁우위를 점하기 위한 전략적 무기 입니다. 그렇기 때문에 IT 시스템은 비즈니스 요구사항을 정확히 반영하고 비즈니스 전략을 충실히 현실화 할 수 있도록 개발, 운영되어야 합니다. 그러나 현실은 여러가지 이유로 비즈니스에서 요구하는 가치 전달에 있어 갭을 가지고 있습니다.
 
-## Inline HTML elements
+그내용을좀더분석해보면다음과같은여섯가지 상세 문제로 정의될 수 있습니다.
+1.  비즈니스전략과연계부족
+2.  투자에 대한 가치 실현과정에서의 관리 공백 
+3.  잔존지식(Residual Knowledge) 관리 부족
+4.  전체로서하나로보는시각부족
+5.  업무정보의단일원천부족
+6.  구현된IT서비스관리공백
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+## 비즈니스 전략과 연계 부족
 
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thiago Rossener</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+흔히 IT 가 비즈니스와 연계가 부족하다고 합니다. 비즈니스 연계가 되지 않는 근본적인 이유는 비즈니스를 설명할 충분한 정보가 잘 정의되어 있지 않기 때문입니다.
 
-Most of these elements are styled by browsers with few modifications on our part.
+![alt text](https://monosnap.com/file/TRA5NXukobVDcJqJofxRP76ogcxX95.png)
+[그림-2] 비즈니스 아키텍처의 역할 부족과 방향
+즉, 비즈니스 전략을 현실화할 비즈니스 아키텍처와 비즈니스 모델이 체계적으로 문서화 되어 있지 않아 전략이 현실화되어 있어야 할 실행가능한 업무 활동에 대한 정확한 이해가 부족하여 IT 시스템
 
-# Heading 1
 
-## Heading 2
+[그림-1] 요구되는 IT 능력과 딜리버리 갭
+이러한 주요 문제는 (1)업무의 변화를 지속적으로 파악하고 모든 직원들이 공유하고 이해하고 수행할 수 있도록 하는 ***비즈니스 모델의 현행화*** , (2) 정보 기술을 적극적으로 파악 적용하고 구현된 정보서비스를 언제든지 정확하게 파악할 수 있는 정보시스템의 현실화가 제대로 이루어 지지 않아 발생하는 ***거버넌스 결핍*** 으로 발생 됩니다. 따라서 정보 시스템의 대한 투자와 재개발이 주기적으로 이루어지지만기대와실제전달에있어갭이존재 하게 됩니다.
 
-### Heading 3
 
-#### Heading 4
 
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+구현에 연계가 충분히 이루어 지지 못하는 결과로 이어지게 됩니다.
 
-## Code
 
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
+## 가치 실현과정에서의 관리 공백
+프로젝트를 수행하는데 있어 본래 달성해야 할 비즈니스 가치가 관리되고 검증 되어야 합니다. 즉, 구현되는 IT 서비스가 비즈니스와 관련 이해 당사자에게 어떤 가치를 전달할 것인가를 개별 IT 서비스 단위에서 정의 되고, 구현되고 검증 되어서 투자 가치를 보호하고 이해 당사자의 기대 가치를 충족 시킬 수 있어야 하는데 이러한 기대 가치를 정의 하고 검증하고 관리 할 수 있는 거버넌스 체계가 명확하지 않아 가치 실현에 관리 공백이 생기고 있습니다.
 
-```js
-// Example can be run directly in your JavaScript console
+## 잔존지식관리 부족
+비즈니스와 IT 서비스에 대한 대부분의 지식이 개인의 머리속에 존재하는 경우가 대부분입니다. 따라서 인력관리에 어려움이 있을 뿐만 아니라 그 지식이 공유되지 않기 때문에 IT 서비스를 비즈니스에서 요구하는 기대에 부응하지 못하는 경우가 많습니다.
 
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
 
-// Call the function
-adder(2, 6);
-// > 8
-```
+[그림-3] 프로젝트 단계에 따른 잔존지식 연계부족
 
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
+여러가지 이유로 신 시스템을 구축하게 되지만 기존 유지팀이 가지고 있는 지식이 개발팀에 온전히 전달 되지 못하고, 또한 개발팀이 개발과정에서 획득한 지식이개발이후유지보수팀에게온전히전달되지 못하여 시스템 운영 단계에서 서비스 품질의 문제, 인력관리의 문제를 야기 시킵니다.
 
-## Lists
+##  전체로서 하나를 보는 시각 부족
+여러 부서들이 각각 업무 문제를 해결하기 위해 프로젝트를 진행하지만 기업 전체를 하나로 보고 결합하고, 통제하고, 관리하기 보다는 개별 시스템의 입장에서 개발, 운영하는 경우가 많습니다.
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
 
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
+[그림-4] 전체로서 하나의 시각
 
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image")
-![placeholder](https://placehold.it/400x200 "Medium example image")
-![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
+> 그로 인하여, 데이터 통합의 문제, 고객 경험의 문제,
+> 전사적 통합 차원에서 기대와 차이를 가지게 됩니다. 2.5 업무 정보의 단일 원천 부재
+> 많은 기업들이 각 기업에서 매일 수행하고 경쟁하는 비즈니스 모델(즉, 사업모델)에 대한 체계적이고 명료한 문서를 가지고 있지 않습니다. IT 시스템은 비즈니스 모델을 지원하기 위한 것입니다. 그런데 비즈니스 모델과 업무 정보가 단일 원천으로 존재 하지 않고 있기 때문에, 전체로서 하나를 보게 하는 시각이 부족하며 중복 투자와 서비스 품질에 문제를 가지게 됩니다.
 
 -----
 
-Want to see something else added? <a href="https://github.com/poole/poole/issues/new">Open an issue.</a>
+다음 글을 읽으세요
 
 
 
